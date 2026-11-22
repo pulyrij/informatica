@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Сторінка-1" id="vtObP7BR8Juw8ANvP-tq">
+    <mxGraphModel dx="870" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EfhJ35xOPSf8Bsh1rMuy-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;roundedPerimeter=1;arcSize=17;absoluteArcSize=1;" value="&lt;font size=&quot;1&quot;&gt;Початок&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="90" x="45" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EfhJ35xOPSf8Bsh1rMuy-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="cout &amp;lt;&amp;lt; &quot;Завдання 1&quot;" vertex="1">
+          <mxGeometry height="20" width="140" x="20" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EfhJ35xOPSf8Bsh1rMuy-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;task1()&lt;/b&gt;" vertex="1">
+          <mxGeometry height="20" width="60" x="60" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EfhJ35xOPSf8Bsh1rMuy-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="cout &amp;lt;&amp;lt; &quot;Завдання 2&quot;" vertex="1">
+          <mxGeometry height="20" width="140" x="20" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="EfhJ35xOPSf8Bsh1rMuy-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;task2()&lt;/b&gt;" vertex="1">
+          <mxGeometry height="20" width="60" x="60" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="EfhJ35xOPSf8Bsh1rMuy-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="cout &amp;lt;&amp;lt; &quot;Завдання 3&quot;" vertex="1">
+          <mxGeometry height="20" width="140" x="20" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="EfhJ35xOPSf8Bsh1rMuy-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="cout &amp;lt;&amp;lt; &quot;Завдання 4&quot;" vertex="1">
+          <mxGeometry height="20" width="140" x="20" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="EfhJ35xOPSf8Bsh1rMuy-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;task3()&lt;/b&gt;" vertex="1">
+          <mxGeometry height="20" width="60" x="60" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="EfhJ35xOPSf8Bsh1rMuy-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;task1()&lt;/b&gt;" vertex="1">
+          <mxGeometry height="20" width="60" x="60" y="340" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
